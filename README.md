@@ -1,5 +1,13 @@
 # English to Georgian and Vice Versa
 
+## Table of Contents
+
+- [English to Georgian and Vice Versa](#english-to-georgian-and-vice-versa)
+  - [Table of Contents](#table-of-contents)
+  - [Georgian alphabet](#georgian-alphabet)
+  - [Georgian phrases](#georgian-phrases)
+  - [for me (ignore this)](#for-me)
+
 ## Georgian alphabet
 
 ![Georgian Alphabet](./assets/images/georgian_alphabet.jpg)
@@ -40,7 +48,7 @@
 | ჯ           | j          | <video src="https://github.com/user-attachments/assets/25947ac6-d7c5-41e2-a7ab-617c300af934.mov"></video> |
 | ჰ           | h          | <video src="https://github.com/user-attachments/assets/4452960d-177e-4fa1-9ee3-df9497e96f8d.mov"></video> |
 
-## Some phrases
+## Georgian phrases
 
 | In Georgian                | In English           | Pronunciation                                                                                             |
 | -------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------- |
