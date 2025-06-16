@@ -4,44 +4,49 @@
 
 ![Georgian Alphabet](./assets/images/georgian_alphabet.jpg)
 
-<video src="https://github.com/user-attachments/assets/b9f58015-9338-4250-94e9-5b3074e511a2" ></video>
-
-<video src="https://github.com/user-attachments/assets/b9f58015-9338-4250-94e9-5b3074e511a2.mov" controls></video>
-
-<video src="./assets/audio/ა.mov" ></video>
-
 | In Georgian | In English | Pronunciation                                                                     |
 | ----------- | ---------- | --------------------------------------------------------------------------------- |
-| ა           | a          | <video src="https://github.com/user-attachments/assets/b9f58015-9338-4250-94e9-5b3074e511a2.mov" muted="false"></video> |
-| ბ           | b          | <audio controls> <source src="./assets/audio/ბ.mp3"></audio>                      |
-| გ           | g          | <audio controls> <source src="./assets/audio/გ.mp3"></audio>                      |
-| დ           | d          | <audio controls> <source src="./assets/audio/დ.mp3"></audio>                      |
-| ე           | e          | <audio controls> <source src="./assets/audio/ე.mp3"></audio>                      |
-| ვ           | v          | <audio controls> <source src="./assets/audio/ვ.mp3"></audio>                      |
-| ზ           | z          | <audio controls> <source src="./assets/audio/ზ.mp3"></audio>                      |
-| თ           | th         | <audio controls> <source src="./assets/audio/თ.mp3"></audio>                      |
-| ი           | i          | <audio controls> <source src="./assets/audio/ი.mp3"></audio>                      |
-| კ           | k'         | <audio controls> <source src="./assets/audio/კ.mp3"></audio>                      |
-| ლ           | l          | <audio controls> <source src="./assets/audio/ლ.mp3"></audio>                      |
-| მ           | m          | <audio controls> <source src="./assets/audio/მ.mp3"></audio>                      |
-| ნ           | n          | <audio controls> <source src="./assets/audio/ნ.mp3"></audio>                      |
-| ო           | o          | <audio controls> <source src="./assets/audio/ო.mp3"></audio>                      |
-| პ           | p'         | <audio controls> <source src="./assets/audio/პ.mp3"></audio>                      |
-| ჟ           | zh         | <audio controls> <source src="./assets/audio/ჟ.mp3"></audio>                      |
-| რ           | r          | <audio controls> <source src="./assets/audio/რ.mp3"></audio>                      |
-| ს           | s          | <audio controls> <source src="./assets/audio/ს.mp3"></audio>                      |
-| ტ           | t'         | <audio controls> <source src="./assets/audio/ტ.mp3"></audio>                      |
-| უ           | u          | <audio controls> <source src="./assets/audio/უ.mp3"></audio>                      |
-| ფ           | ph         | <audio controls> <source src="./assets/audio/ფ.mp3"></audio>                      |
-| ქ           | kh         | <audio controls> <source src="./assets/audio/ქ.mp3"></audio>                      |
-| ღ           | gh         | <audio controls> <source src="./assets/audio/ღ.mp3"></audio>                      |
-| ყ           | q'         | <audio controls> <source src="./assets/audio/ყ.mp3"></audio>                      |
-| შ           | sh         | <audio controls> <source src="./assets/audio/შ.mp3"></audio>                      |
-| ჩ           | ch         | <audio controls> <source src="./assets/audio/ჩ.mp3"></audio>                      |
-| ც           | ts         | <audio controls> <source src="./assets/audio/ც.mp3"></audio>                      |
-| ძ           | dz         | <audio controls> <source src="./assets/audio/ძ.mp3"></audio>                      |
-| წ           | ts'        | <audio controls> <source src="./assets/audio/წ.mp3"></audio>                      |
-| ჭ           | ch'        | <audio controls> <source src="./assets/audio/ჭ.mp3"></audio>                      |
-| ხ           | kh         | <audio controls> <source src="./assets/audio/ხ.mp3"></audio>                      |
-| ჯ           | j          | <audio controls> <source src="./assets/audio/ჯ.mp3"></audio>                      |
-| ჰ           | h          | <audio controls> <source src="./assets/audio/ჰ.mp3"></audio>                      |
+| ა           | a          | <video src="https://github.com/user-attachments/assets/b9f58015-9338-4250-94e9-5b3074e511a2.mov"></video> |
+| ბ           | b          | <video src="https://github.com/user-attachments/assets/753fc08f-8c37-409d-a485-9eff13df9545.mov"></video>                      |
+| გ           | g          | <video src="https://github.com/user-attachments/assets/5d361dc9-c4f5-4058-ba11-f98b53d69bac.mov"></video>                      |
+| დ           | d          | <video src="https://github.com/user-attachments/assets/4bceceee-61d6-4e74-9586-f106db7e25fa.mov"></video>                      |
+| ე           | e          | <video src="https://github.com/user-attachments/assets/7d8f4dd1-0eca-45e6-8e37-dfed1331313a.mov"></video>                      |
+| ვ           | v          | <video src="https://github.com/user-attachments/assets/56914c01-42cc-4096-a735-657155179f9a.mov"></video>                      |
+| ზ           | z          | <video src="https://github.com/user-attachments/assets/2b6dc021-b593-4c1f-b2a1-e8729d22f203.mov"></video>                      |
+| თ           | th         | <video src="https://github.com/user-attachments/assets/576d805f-9783-4823-8d60-e962ba9a3c92.mov"></video>                      |
+| ი           | i          | <video src="https://github.com/user-attachments/assets/eecfc329-caa2-4077-babf-93c3c3588bb1.mov"></video>                      |
+| კ           | k'         | <video src="https://github.com/user-attachments/assets/3441eb97-2a4e-4e9a-b8ee-cd6daf0901cc.mov"></video>                      |
+| ლ           | l          | <video src="https://github.com/user-attachments/assets/d4714a2f-31f1-49de-b7f3-48720c713c2d.mov"></video>                      |
+| მ           | m          | <video src="https://github.com/user-attachments/assets/c9192c7a-33af-4ea2-98d7-2e3ec61a83a1.mov"></video>                      |
+| ნ           | n          | <video src="https://github.com/user-attachments/assets/211363a2-e50e-44eb-8804-49042ecf58fc.mov"></video>                      |
+| ო           | o          | <video src="https://github.com/user-attachments/assets/1b5f1ced-018f-47d9-a208-58fb7b3f8ab9.mov"></video>                      |
+| პ           | p'         | <video src="https://github.com/user-attachments/assets/3b9e7f1c-b990-4b62-8063-fb4abb0ae2d3.mov"></video>                      |
+| ჟ           | zh         | <video src="https://github.com/user-attachments/assets/c0642e42-f92b-4e5a-8317-dcf24328a2af.mov"></video>                      |
+| რ           | r          | <video src="https://github.com/user-attachments/assets/39bd59cb-eda7-4937-b68e-7b81038e18a3.mov"></video>                      |
+| ს           | s          | <video src="https://github.com/user-attachments/assets/af755e79-675c-4e98-9e98-94d994e4e0c8.mov"></video>                      |
+| ტ           | t'         | <video src="https://github.com/user-attachments/assets/57d80ac3-401f-46e6-a787-b95c75e24592.mov"></video>                      |
+| უ           | u          | <video src="https://github.com/user-attachments/assets/4bc97e29-a5a8-4024-8206-9520eaa5ad91.mov"></video>                      |
+| ფ           | ph         | <video src="https://github.com/user-attachments/assets/839df51e-21d5-4342-a6fe-0d4cc4164872.mov"></video>                      |
+| ქ           | kh         | <video src="https://github.com/user-attachments/assets/6d1d7079-6837-4571-a6b6-246782089694.mov"></video>                      |
+| ღ           | gh         | <video src="https://github.com/user-attachments/assets/167464cc-971a-471b-ac7c-d9c94e432cc2.mov"></video>                      |
+| ყ           | q'         | <video src="https://github.com/user-attachments/assets/8cd99b5d-5463-4bee-84d9-e23c27a8eed2.mov"></video>                      |
+| შ           | sh         | <video src="https://github.com/user-attachments/assets/bf91da6f-4a95-4f13-b767-703366fcf8c3.mov"></video>                      |
+| ჩ           | ch         | <video src="https://github.com/user-attachments/assets/ff2afa08-eca0-4be8-b970-16cda33fa9c7.mov"></video>                      |
+| ც           | ts         | <video src="https://github.com/user-attachments/assets/88402110-6a1a-493c-adc3-8fb3b155fd96.mov"></video>                      |
+| ძ           | dz         | <video src="https://github.com/user-attachments/assets/6ebdb558-6642-4484-94c8-ea7c4907d6b8.mov"></video>                      |
+| წ           | ts'        | <video src="https://github.com/user-attachments/assets/c838178b-16d3-45d4-ba37-145f864f745b.mov"></video>                      |
+| ჭ           | ch'        | <video src="https://github.com/user-attachments/assets/a1e38d69-54ac-4724-9474-b8f20f0b8843.mov"></video>                      |
+| ხ           | kh         | <video src="https://github.com/user-attachments/assets/e61793b0-c397-413f-871d-d0fa00d6d79e.mov"></video>                      |
+| ჯ           | j          | <video src="https://github.com/user-attachments/assets/25947ac6-d7c5-41e2-a7ab-617c300af934.mov"></video>                      |
+| ჰ           | h          | <video src="https://github.com/user-attachments/assets/4452960d-177e-4fa1-9ee3-df9497e96f8d.mov"></video>                      |
+
+## for me
+
+```bash
+# from mp3 to mov
+for file in audio/*.mp3; do
+  filename=$(basename "$file" .mp3)
+  ffmpeg -i "$file" -c:a aac -b:a 96k -movflags +faststart "video/${filename}.mov"
+done
+
+```
